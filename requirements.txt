@@ -1,0 +1,4 @@
+gym==0.25.2
+numpy==1.21.2
+Pillow==8.4.0
+tensorflow==2.12.0

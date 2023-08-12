@@ -43,3 +43,6 @@ To get started with this project, follow these steps:
 ## Results
 
 The trained agent demonstrates successful landings in the Lunar Lander environment. You can view a video of the agent's performance in the `videos` directory.
+
+## DEMO
+![trained_agent](https://github.com/Siddharth-2382/Lunar-Lander-AI/assets/94699055/9a0dab80-0fa7-4a22-ac0e-ad141021b6f8)
